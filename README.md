@@ -15,3 +15,16 @@ This console application is divided into four sections:
 
 4. starFunctions.c - This file contains 12 functions - square, rhombus, hollowSquare, rTriangle, lTriangle, inverted_R_Triangle, inverted_L_Triangle, pyramid, invertedPyramid                          Diamond, aboutMe and retryAboutMe funtion. Square - Diamond functions all contain nested for loop algorithm to print star patterns respectively. aboutMe                            function shows some breif information about the developer of this console application. retryAboutMe function is called when user inputs wrong option when                          prompted to either quit or go back to main menu from the about me section.
 
+<img src="Images/1.JPG" Height=400>
+
+<img src="Images/2.JPG" Height=400>
+
+<img src="Images/3.JPG" Height=400>
+
+<img src="Images/4.JPG" Height=400>
+
+<img src="Images/5.JPG" Height=400>
+
+<img src="Images/6.JPG" Height=400>
+
+<img src="Images/7.JPG" Height=400>
